@@ -1,0 +1,1 @@
+.scribe__title{width:calc(280px + 320 * ((100vw - 320px) / 880));margin-bottom:30px}.scribe__input{text-align:center;background:none;border-bottom:2px solid #282828;margin-bottom:5px}.scribeCorrect{border-bottom:2px solid green}.scribeWrong{border-bottom:2px solid red}

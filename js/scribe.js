@@ -1,0 +1,1 @@
+function scribeCheck(){let e=document.getElementsByClassName("scribe__input");for(let c=0;c<correctScribe.length;c++)e[c].value.toLowerCase()===correctScribe[c]?(e[c].classList.add("scribeCorrect"),userScribe+=1):e[c].classList.add("scribeWrong")}
